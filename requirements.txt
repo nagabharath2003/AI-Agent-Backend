@@ -1,0 +1,11 @@
+# --- Core Framework ---
+fastapi
+uvicorn
+# --- Database ---
+mysql
+# --- Data Validation ---
+pydantic
+# --- Testing ---
+pytest
+httpx  # for testing FastAPI endpoints
+
